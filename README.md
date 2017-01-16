@@ -1,10 +1,10 @@
 # 許富鈜
-- Birthday: Oct 20<sup>th</sup>, 1983
- - Education: 立志工商 資訊科
- - Location: Taipei
- - E-Mail: generals2023@gmail.com
- - Mobile: 0989-752-098
- - Personal Website: http://generals.clouds.twgogo.org/wj1_1/
+- Birthday: April 4<sup>th</sup>, 1983
+- Education: 立志工商 資訊科
+- Location: Taipei
+- E-Mail: generals2023@gmail.com
+- Mobile: 0989-752-098
+- Personal Website: http://generals.clouds.twgogo.org/wj1_1/
 
 <hr>
 ### Experience 工作經歷
