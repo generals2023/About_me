@@ -1,5 +1,5 @@
 # 許富鈜
-- Birthday: April 4<sup>th</sup>, 1983
+- Birthday: April 9, 1983
 - Education: 立志工商 資訊科
 - Location: Taipei
 - E-Mail: generals2023@gmail.com
