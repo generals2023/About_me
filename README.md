@@ -1,7 +1,7 @@
 # 許富鈜
 - Birthday: April 9, 1983
 - Education: 立志工商 資訊科
-- Location: Taipei
+- Location: Kaohsiung
 - E-Mail: generals2023@gmail.com
 - Mobile: 0989-752-098
 - Personal Website: <a href="http://generals.clouds.twgogo.org/wj1_1/" target="_blank">作品網站</a>
@@ -33,7 +33,11 @@
 
 ### Works 作品
 
-####<a href="http://generals.clouds.twgogo.org/citma/" target="_blank">個人網站</a>
+#### <a href="http://generals.clouds.twgogo.org/ryent9/" target="_blank">RYENT9扶輪社</a>
+ - jQuery 製作前端特效
+ - 使用 Bootstrap3 響應式設計
+ 
+####<a href="http://generals.clouds.twgogo.org/citma/" target="_blank">中華中小企業</a>
  - jQuery 製作前端特效
  - 使用 Bootstrap3 響應式設計
  
@@ -41,7 +45,7 @@
  - jQuery 製作前端特效
  - 使用 Bootstrap3 響應式設計
  
-#### <a href="http://generals.clouds.twgogo.org/ryent8/" target="_blank">台灣扶輪社</a>
+#### <a href="http://generals.clouds.twgogo.org/ryent8/" target="_blank">RYENT8扶輪社</a>
  - jQuery 製作前端特效
  - 使用 Bootstrap3 響應式設計
   
