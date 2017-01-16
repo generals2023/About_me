@@ -4,7 +4,8 @@
 - Location: Taipei
 - E-Mail: generals2023@gmail.com
 - Mobile: 0989-752-098
-- Personal Website: http://generals.clouds.twgogo.org/wj1_1/
+- Personal Website: <a href="http://generals.clouds.twgogo.org/wj1_1/" target="_blank">作品網站</a>
+
 
 <hr>
 ### Experience 工作經歷
@@ -16,26 +17,40 @@
  - FB，LINE貼文，品牌推廣活動，網站修改及優化SEO，商品拍攝，去背修圖，製圖，上架 
 
 <hr>
-### FrontEnd Programming Language 專業技能
+### FrontEnd Programming Language 前端專業技能
  - 使用 SASS 管理網頁版型
  - 使用 jQuery 設計網頁動畫效果
  - 了解 JSON/Ajax ，並介接第三方 API (Google Map)
  - 善用 Framework 應用於網頁介面開發 (Bootstrap3)
  - 使用 Gulp 規劃 Web layout 架構
-
+ 
+<hr>
+### RearEnd Programming Language 後端編程語言
+ - PHP MySQLi自學中
+ - PHP (PHP Data Object) 自學中
 <hr>
 ### Portfolio 作品
 #### <a href="http://generals.clouds.twgogo.org/citma/" target="_blank">個人網站</a>
  - jQuery 製作前端特效
  - 使用 Bootstrap3 響應式設計
+ 
+#### <a href="http://generals.clouds.twgogo.org/xshtec/" target="_blank">邑宿民宿</a>
+ - jQuery 製作前端特效
+ - 使用 Bootstrap3 響應式設計
+ 
+#### <a href="http://generals.clouds.twgogo.org/ryent8/" target="_blank">台灣扶輪社</a>
+ - jQuery 製作前端特效
+ - 使用 Bootstrap3 響應式設計
   
-#### <a href="http://generals.clouds.twgogo.org/google_map/">高雄</a>
+#### <a href="http://generals.clouds.twgogo.org/google_map/" target="_blank">高雄美食</a>
  - 使用 jQuery 製作前端特效及 Ajax 取得 API
  - 將資料透過 Google Map API 轉換成地圖
 
 
 <hr>
 ### Personality 關於我
- - 喜歡多方思考、分析，提升問題解決能力。
- - 樂於汲取多元技術及知識，累積實作經驗。
- - 積極溝通，有效達成團隊目標。
+ - 你好，我叫許富鈜，從2014年開始從事網頁工作。
+ - 並積極學習，希望有朝一日能夠成為出色的工程師。 
+ - 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡。 
+ - 時時關注網站前端技術，行動應用及網路發展趨勢。
+ - 樂於溝通與團隊合作，並享受與夥伴們一起朝同個目標前進。
