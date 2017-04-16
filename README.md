@@ -6,30 +6,29 @@
 - Mobile: 0989-752-098
 - Personal Website: <a href="http://generals.clouds.twgogo.org/wj1_1/" target="_blank">作品網站</a>
 
+----------------------------------- 
 
-<hr>
-### Experience 工作經歷
-#### 迪傑魔( 2015 08 ~ 仍在職)-網頁設計師
+ Experience 工作經歷
+
+#### 迪傑魔( 2015 08 ~ 仍在職) -網頁設計師
 - 負責響應式網頁設計，與美工設計師討論，並設計出網頁前端介面。
-- 與後端工程師、討論設計出良好使用者體驗網站
- 
-#### 888創意生活館( 2014 09 ~ 2015 04)-網頁美工 ####
-- FB，LINE貼文，品牌推廣活動，網站修改及優化SEO，商品拍攝，去背修圖，製圖，上架 
+- 與後端工程師、討論設計出良好使用者體驗網站。
 
-<hr>
+#### 888創意生活館( 2014 09 ~ 2015 04) -網頁美工
+- FB，LINE貼文，品牌推廣活動，網站修改及優化SEO，商品拍攝，去背修圖，製圖，上架 。
+----------------------------------- 
 ### FrontEnd Programming Language 前端專業技能
- - 使用 SASS 管理網頁版型
- - 使用 jQuery 設計網頁動畫效果
- - 了解 JSON/Ajax ，並介接第三方 API (Google Map)
- - 善用 Framework 應用於網頁介面開發 (Bootstrap3)
- - 使用 Gulp 規劃 Web layout 架構
+- 使用 SASS 管理網頁版型
+- 使用 jQuery 設計網頁動畫效果
+- 了解 JSON/Ajax ，並介接第三方 API (Google Map)
+- 善用 Framework 應用於網頁介面開發 (Bootstrap3)
+- 使用 Gulp 規劃 Web layout 架構
  
-<hr>
+ ----------------------------------- 
 ### RearEnd Programming Language 後端編程語言
  - PHP MySQLi自學中
  - PHP (PHP Data Object) 自學中
  
-<hr>
 
 ### Works 作品
 
