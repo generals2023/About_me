@@ -33,7 +33,7 @@
  - jQuery 製作前端特效
  - 使用 Bootstrap3 響應式設計
  
-### <a href="http://generals.clouds.twgogo.org/citma/" target="_blank">中華中小企業</a>
+#### <a href="http://generals.clouds.twgogo.org/citma/" target="_blank">中華中小企業</a>
  - jQuery 製作前端特效
  - 使用 Bootstrap3 響應式設計
  
@@ -49,8 +49,8 @@
  - 使用 jQuery 製作前端特效及 Ajax 取得 API
  - 將資料透過 Google Map API 轉換成地圖
 
-
 <hr>
+
 ### About Me 關於我
  - 你好，我叫許富鈜，從2014年開始從事網頁工作。
  - 並積極學習，希望有朝一日能夠成為出色的工程師。 
