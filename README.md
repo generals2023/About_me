@@ -22,9 +22,9 @@
 - 使用 Gulp 規劃 Web layout 架構
  
  ----------------------------------- 
-### RearEnd Programming Language 後端編程語言
- - PHP MySQLi自學中
- - PHP (PHP Data Object) 自學中
+### RearEnd Programming Language 2017後端編程語言投入方向
+ - PHP MySQLi
+ - PHP (PHP Data Object)
  
 
 ### Works 作品
