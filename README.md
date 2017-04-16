@@ -5,10 +5,7 @@
 - E-Mail: generals2023@gmail.com
 - Mobile: 0989-752-098
 - Personal Website: <a href="http://generals.clouds.twgogo.org/wj1_1/" target="_blank">作品網站</a>
-
------------------------------------ 
-
- Experience 工作經歷
+### Experience 工作經歷
 
 #### 迪傑魔( 2015 08 ~ 仍在職) -網頁設計師
 - 負責響應式網頁設計，與美工設計師討論，並設計出網頁前端介面。
