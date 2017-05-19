@@ -15,18 +15,17 @@
 - FB，LINE貼文，品牌推廣活動，網站修改及優化SEO，商品拍攝，去背修圖，製圖，上架 。
 ----------------------------------- 
 ### FrontEnd Programming Language 前端專業技能
+- 使用 Gulp 規劃 erb 樣板 Web layout 架構
 - 使用 SASS 管理網頁版型
 - 使用 jQuery 設計網頁動畫效果
 - 了解 JSON/Ajax ，並介接第三方 API (Google Map)
 - 善用 Framework 應用於網頁介面開發 (Bootstrap3)
-- 使用 Gulp 規劃 Web layout 架構
- 
+
  ----------------------------------- 
 ### RearEnd Programming Language 2017後端編程語言投入方向
  - PHP MySQLi
  - PHP (PHP Data Object)
  
-
 ### Works 作品
 #### <a href="http://generals.clouds.twgogo.org/public/" target="_blank">美食介紹網站</a>
  - jQuery 製作前端特效
@@ -49,7 +48,7 @@
  - 使用 Bootstrap3 響應式設計
   
 #### <a href="http://generals.clouds.twgogo.org/google_map/" target="_blank">高雄美食</a>
- - 使用 jQuery 製作前端特效及 Ajax 取得 API
+ - 使用 jQuery 製作前端特效及 Ajax 取得 高雄開放資料JSON
  - 將資料透過 Google Map API 轉換成地圖
 
 <hr>
