@@ -22,35 +22,34 @@
 - 善用 Framework 應用於網頁介面開發 (Bootstrap3)
 
  -----------------------------------
-### RearEnd Programming Language 2017後端編程語言投入方向
+### RearEnd Programming Language 2018後端編程語言投入方向
  - PHP MySQLi
  - PHP (PHP Data Object)
 
 ### Works 作品
-#### <a href="" target="_blank">美食介紹網站</a>
- - jQuery 製作前端特效
+
+#### <a href="http://generals.web.youp.ga/food" target="_blank">美食介紹網站</a>
+ - 購物網站-樣版
  - 使用 Bootstrap3 響應式設計
 
-#### <a href="" target="_blank">RYENT9扶輪社</a>
- - jQuery 製作前端特效
+#### <a href="http://generals.web.youp.ga/sunrays" target="_blank">Sunray'S生瑞仕皮膚美學</a>
+ - 形象網站設計
+ - 使用 Bootstrap3 響應式設計
+ #### <a href="http://generals.web.youp.ga/qlan2" target="_blank">仟量塑膠</a>
+ - S生瑞仕皮膚美學
+ - 使用 Bootstrap3 響應式設計
+#### <a href="http://generals.web.youp.ga/xshtec" target="_blank">邑宿民宿</a>
+ - 民宿行銷
  - 使用 Bootstrap3 響應式設計
 
-#### <a href="http://generals.clouds.twgogo.org/citma/" target="_blank">中華中小企業</a>
- - jQuery 製作前端特效
- - 使用 Bootstrap3 響應式設計
-
-#### <a href="http://generals.clouds.twgogo.org/xshtec/" target="_blank">邑宿民宿</a>
- - jQuery 製作前端特效
- - 使用 Bootstrap3 響應式設計
-
-#### <a href="http://generals.clouds.twgogo.org/ryent8/" target="_blank">RYENT8扶輪社</a>
- - jQuery 製作前端特效
- - 使用 Bootstrap3 響應式設計
-
-#### <a href="http://generals.web.youp.ga/google-api/google_map/" target="_blank">高雄美食</a>
+#### <a href="http://generals.web.youp.ga/google-api/google_map/" target="_blank">高雄美食地圖</a>
  - 使用 jQuery 製作前端特效及 Ajax 取得 高雄開放資料JSON
  - 將資料透過 Google Map API 轉換成地圖
 
+
+#### <a href="http://generals.web.youp.ga/manliraya/" target="_blank">曼麗醫美診所</a>
+ - 首頁全幅影片設計
+ - 使用 Bootstrap3 響應式設計
 <hr>
 
 ### About Me 關於我
