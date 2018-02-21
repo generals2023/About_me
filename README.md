@@ -7,7 +7,7 @@
 - Personal Website: <a href="http://generals.clouds.twgogo.org/wj1_1/" target="_blank">作品網站</a>
 ### Experience 工作經歷
 
-#### 迪傑魔( 2015 08 ~ 2017 仍在職) -網頁設計師
+#### 迪傑魔( 2015 08 ~ 2018 仍在職) -網頁設計師
 - 負責響應式網頁設計，與美工設計師討論，並設計出網頁前端介面。
 - 與後端工程師、討論設計出良好使用者體驗網站。
 
