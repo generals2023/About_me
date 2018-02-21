@@ -47,7 +47,7 @@
  - jQuery 製作前端特效
  - 使用 Bootstrap3 響應式設計
 
-#### <a href="http://generals.clouds.twgogo.org/google_map/" target="_blank">高雄美食</a>
+#### <a href="http://generals.web.youp.ga/google-api/google_map/" target="_blank">高雄美食</a>
  - 使用 jQuery 製作前端特效及 Ajax 取得 高雄開放資料JSON
  - 將資料透過 Google Map API 轉換成地圖
 
