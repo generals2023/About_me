@@ -1,10 +1,10 @@
 # 許富鈜
 - Birthday: April 9, 1983
-- Education: 立志工商 資訊科
+- Education: 正修科技大學 資訊管理系-就讀夜間部中
 - Location: Kaohsiung
 - E-Mail: generals2023@gmail.com
 - Mobile: 0989-752-098
-- Personal Website: <a href="http://generals.clouds.twgogo.org/wj1_1/" target="_blank">作品網站</a>
+- Personal Website: 
 ### Experience 工作經歷
 
 #### 迪傑魔( 2015 08 ~ 2018 仍在職) -網頁設計師
@@ -29,21 +29,21 @@
 ### Works 作品
 
 #### <a href="http://generals.web.youp.ga/food" target="_blank">美食介紹網站</a>
- - 購物網站-樣版
+ - 美食介紹網站-樣版設計
  - 使用 Bootstrap3 響應式設計
 
 #### <a href="http://generals.web.youp.ga/sunrays" target="_blank">Sunray'S生瑞仕皮膚美學</a>
- - 形象網站設計
+ - 形象網站-樣版設計
  - 使用 Bootstrap3 響應式設計
  #### <a href="http://generals.web.youp.ga/qlan2" target="_blank">仟量塑膠</a>
- - S生瑞仕皮膚美學
+ - 仟量塑膠-樣版設計
  - 使用 Bootstrap3 響應式設計
 #### <a href="http://generals.web.youp.ga/xshtec" target="_blank">邑宿民宿</a>
- - 民宿行銷
+ - 民宿行銷-形象設計
  - 使用 Bootstrap3 響應式設計
 
 #### <a href="http://generals.web.youp.ga/google-api/google_map/" target="_blank">高雄美食地圖</a>
- - 使用 jQuery 製作前端特效及 Ajax 取得 高雄開放資料JSON
+ - 使用 Ajax 取得 高雄開放資料JSON
  - 將資料透過 Google Map API 轉換成地圖
 
 
@@ -58,4 +58,4 @@
  - 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡。
  - 時時關注網站前端技術，行動應用及網路發展趨勢。
  - 樂於溝通與團隊合作，並享受與夥伴們一起朝同個目標前進。
- - 2018/02/20更新
+ - 2018/02/27更新
