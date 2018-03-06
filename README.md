@@ -27,7 +27,9 @@
  - PHP (PHP Data Object)
 
 ### Works 作品
-
+#### <a href="http://generals.web.youp.ga/FHshop/index.html" target="_blank">購物網站</a>
+ - 購物網站-樣版設計
+ - 使用 Bootstrap3 響應式設計
 #### <a href="http://generals.web.youp.ga/food" target="_blank">美食介紹網站</a>
  - 美食介紹網站-樣版設計
  - 使用 Bootstrap3 響應式設計
@@ -58,4 +60,4 @@
  - 喜歡嘗試新技術，不希望侷限在自己目前所會的技術裡。
  - 時時關注網站前端技術，行動應用及網路發展趨勢。
  - 樂於溝通與團隊合作，並享受與夥伴們一起朝同個目標前進。
- - 2018/02/27更新
+ - 2018/03/6更新
